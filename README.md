@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**horseee/horseee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm ✨ Xinyin Ma ✨ 
 
-Here are some ideas to get you started:
+🌱 I’m currently learning at [NUS LV lab](http://www.lv-nus.org), under the supervision of [Prof. Xinchao Wang](https://sites.google.com/site/sitexinchaowang/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Previously I'm studying in Zhejiang University, under the supervision of [Prof. Weiming Lu](https://person.zju.edu.cn/en/lwm#743808)
+
+🤔 My research Interest mainly on the efficient learning and language models.
+
+👯[[Personal Page]](https://horseee.github.io/) \|
+📫[[Google Scholar]](https://scholar.google.co.id/citations?user=jFUKS0oAAAAJ&hl=no) \|
+💬[[Semantic Scholar]](https://www.semanticscholar.org/author/Xinyin-Ma/15532066)
+
+🎃Latest Goal: to have a kitten like this
+
+<img width="158" alt="image" src="https://github.com/horseee/horseee/assets/22924514/c488159d-c46e-4077-9bb8-0936e3050596">
+<img width="148" alt="image" src="https://github.com/horseee/horseee/assets/22924514/1a67583e-ead5-4b03-9c1c-c8f6af9f5707">
