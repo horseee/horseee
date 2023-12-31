@@ -6,7 +6,7 @@
 
 🎓 Previously I'm studying in Zhejiang University, under the supervision of [Prof. Weiming Lu](https://person.zju.edu.cn/en/lwm#743808)
 
-🤔 My research Interest mainly on the efficient learning and language models.
+🤔 My research interest mainly focuses on the efficient generative model.
 
 👯[[Personal Page]](https://horseee.github.io/) \|
 📫[[Google Scholar]](https://scholar.google.co.id/citations?user=jFUKS0oAAAAJ&hl=no) \|
