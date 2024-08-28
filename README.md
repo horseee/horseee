@@ -9,7 +9,7 @@
 🤔 My research interest mainly focuses on the efficient generative model.
 
 🎃 [[Personal Page]](https://horseee.github.io/) \|
-📫[[Google Scholar]](https://scholar.google.co.id/citations?user=jFUKS0oAAAAJ&hl=no) \|
+📫[[Google Scholar]](https://scholar.google.co.id/citations?user=jFUKS0oAAAAJ) \|
 💬[[Semantic Scholar]](https://www.semanticscholar.org/author/Xinyin-Ma/15532066)
 
 <picture>
