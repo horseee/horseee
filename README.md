@@ -2,7 +2,7 @@
 
 #### I'm ✨ Xinyin Ma (马欣尹)✨ 
 
-🌱 I’m currently learning at [NUS LV lab](http://www.lv-nus.org), under the supervision of [Prof. Xinchao Wang](https://sites.google.com/site/sitexinchaowang/)
+🌱 I’m currently learning at [NUS XML lab](https://sites.google.com/view/xml-nus), under the supervision of [Prof. Xinchao Wang](https://sites.google.com/site/sitexinchaowang/)
 
 🎓 Previously I'm studying in Zhejiang University, under the supervision of [Prof. Weiming Lu](https://person.zju.edu.cn/en/lwm#743808)
 
